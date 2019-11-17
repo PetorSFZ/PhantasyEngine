@@ -1,3 +1,5 @@
+# THIS LIBRARY HAS MOVED TO [`sfz_tech`](https://github.com/PetorSFZ/sfz_tech)
+
 # Phantasy Engine
 
 Phantasy Engine is a barebones, cross-platform, DIY, game engine. DIY in the sense that you are expected to configure a lot of stuff specifically for your use case. It is mainly written to be the base for [skipifzero](skipifzero)'s games, but you are free to use it yourself if you are interested.
